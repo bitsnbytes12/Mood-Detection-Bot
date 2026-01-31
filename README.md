@@ -41,5 +41,6 @@ Processes text input through NLP algorithms (e.g., vectorization, model inferenc
 Helps enhance how the bot understands emotional context from user language.
 
 Dataset: FER2013 (Kaggle)
+
 Classes: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 
