@@ -48,3 +48,7 @@ venv.bak/
 .idea/
 .vscode/
 *.swp
+
+# Ignore the FER-2013 dataset directory
+fer2013_dataset/
+
